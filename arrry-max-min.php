@@ -1,5 +1,5 @@
 <?php
-
+/* PPPPPPPPPPPPP */
 $arr=[2,33,1,23,45,0,12,66];
 $max=$arr[0];
 $min=$arr[0];
