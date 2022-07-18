@@ -1,5 +1,6 @@
 <?php
 
+/* into the child */
 $n=120;
 $count=0;
 $arr=[];
